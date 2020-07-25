@@ -33,7 +33,7 @@ def main(script) {
        app_port,
        pr_num,
        dockerTool,
-       docker docker_registry
+       docker_registry
        
  
    )
